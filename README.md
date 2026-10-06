@@ -20,7 +20,7 @@ I'm a B.Tech student who enjoys turning ideas into working prototypes and figuri
 
 ---
 
-## 🚀 What I'm building
+## 🚀 What I built
 
 | Project | What it is |
 | :-- | :-- |
