@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-junaid-shaik-b6b6122a2"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-junaid-shaik-b6b6122a2" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/junaid01125"><img src="https://img.shields.io/badge/GitHub-junaid01125-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Based%20in-India%20🇮🇳-D4A73A?style=for-the-badge" alt="India" />
 </p>
@@ -24,8 +24,8 @@ I'm a B.Tech student who enjoys turning ideas into working prototypes and figuri
 
 | Project | What it is |
 | :-- | :-- |
-| 🎮 [**GameSet**](https://junaid01125.github.io/gameset/) | A sports platform for tournaments and 1v1 challenge matches. |
-| 🇮🇳 [**JanSetu AI**](https://jansetu-report.vercel.app/) | A platform where citizens report local issues and get them routed to the right government department. |
+| 🎮 <a href="https://junaid01125.github.io/gameset/" target="_blank" rel="noopener noreferrer"><strong>GameSet</strong></a> | A sports platform for tournaments and 1v1 challenge matches. |
+| 🇮🇳 <a href="https://jansetu-report.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>JanSetu AI</strong></a> | A platform where citizens report local issues and get them routed to the right government department. |
 
 ---
 
