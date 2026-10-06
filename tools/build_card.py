@@ -143,6 +143,7 @@ svg = """<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/
 
   <!-- rating / position / country -->
   <g class="pop">
+    <text x="46" y="60" class="small">OVR</text>
     <text x="42" y="112" class="rating">__RATING__</text>
     <text x="46" y="146" class="pos">__POS__</text>
     <line x1="46" y1="160" x2="106" y2="160" stroke="#d4a73a" stroke-opacity="0.5"/>
