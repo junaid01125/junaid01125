@@ -24,8 +24,8 @@ I'm a B.Tech student who enjoys turning ideas into working prototypes and figuri
 
 | Project | What it is |
 | :-- | :-- |
-| 🎮 **GameSet** | A sports platform for tournaments and 1v1 challenge matches. |
-| 🇮🇳 **JanSetu AI** | A platform where citizens report local issues and get them routed to the right government department. |
+| 🎮 [**GameSet**](https://junaid01125.github.io/gameset/) | A sports platform for tournaments and 1v1 challenge matches. |
+| 🇮🇳 [**JanSetu AI**](https://jansetu-report.vercel.app/) | A platform where citizens report local issues and get them routed to the right government department. |
 
 ---
 
