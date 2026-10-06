@@ -2,14 +2,13 @@
 
 <p align="center">
   <a href="https://github.com/junaid01125">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D4A73A&center=true&vCenter=true&width=520&lines=B.Tech+student+from+India;I+like+building+things+I+find+interesting;Sports+%C2%B7+Ideas+%C2%B7+Prototypes+%C2%B7+Hackathons" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D4A73A&center=true&vCenter=true&width=520&lines=Majors+in+Computer+Science;I+like+building+things+I+find+interesting;Sports+%C2%B7+Ideas+%C2%B7+Prototypes+%C2%B7+Hackathons" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-junaid-shaik-b6b6122a2" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/junaid01125"><img src="https://img.shields.io/badge/GitHub-junaid01125-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-India%20🇮🇳-D4A73A?style=for-the-badge" alt="India" />
 </p>
 
 ---
